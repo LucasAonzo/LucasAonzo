@@ -10,12 +10,12 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
 
 - 🔭 I’m studying for fullstack developer
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I ride my bike and go to the gym
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasaonzo)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LucasAonzo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasaonzo)
 
 ---
 
