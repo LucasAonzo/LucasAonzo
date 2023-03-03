@@ -1,7 +1,6 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&repeat=false&width=435&lines=Lucas+Aonzo" alt="Typing SVG" />
-</a>
+  <a href="https://github.com/LucasAonzo">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&center=true&repeat=false&width=435&lines=Lucas+Aonzo" alt="Lucas Aonzo" /></a>
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
